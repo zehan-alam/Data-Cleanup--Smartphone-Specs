@@ -28,5 +28,3 @@ This project involves cleaning and analyzing smartphone specifications and price
 
 *Conclusion:*
 This data cleaning and exploratory analysis project provides a clear and organized dataset, enabling further in-depth analysis and the possibility of applying machine learning models for rating prediction or other predictive tasks. The EDA sheds light on the Indian smartphone market, assisting businesses, researchers, and enthusiasts in making informed decisions and understanding market trends.
-
-**Note:** To explore the detailed project notebook and visualizations, refer to the [smartphone_specs_analysis.ipynb](https://github.com/your_username/smartphone_specs_analysis/blob/main/smartphone_specs_analysis.ipynb) file in the [smartphone_specs_analysis](https://github.com/your_username/smartphone_specs_analysis) repository.
