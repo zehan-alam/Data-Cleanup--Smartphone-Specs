@@ -21,6 +21,10 @@ This project involves cleaning and analyzing smartphone specifications and price
 4. **Results:**
    - The cleaned dataset named "smartphone_specs_clean.csv" is ready for further analysis or ML projects.
    - EDA revealed valuable insights into the smartphone market, helping identify trends and patterns.
+   - Before Cleanup:
+     ![Before Cleanup](before.png)
+   - After Cleanup:
+     ![After Cleanup](after.png)
 
 *Data and Libraries Used:*
 - Dataset Source: [Kaggle - Smartphone Specifications and Prices in India](https://www.kaggle.com/datasets/shrutiambekar/smartphone-specifications-and-prices-in-india)
